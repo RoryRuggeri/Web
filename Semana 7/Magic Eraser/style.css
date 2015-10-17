@@ -1,0 +1,122 @@
+/* html */
+
+body{ 
+  background: url(_imgs/polygon_background.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+/* Nav */
+.navbar-default {
+    background-color: #111111;
+    border-color: none;
+}
+
+.navbar {
+    position: relative;
+    min-height: 50px;
+    margin-bottom: 20px;
+    border: none;
+    font-family: 'Muli',"Helvetica Neue", sans-serif;
+}
+
+.navbar .nav > li > a:hover, .navbar .nav > li > a:hover { 
+color: white;                      
+}
+
+.logo:hover{
+
+}
+
+/* Jumbotron */
+
+.jumbotron {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+    color: #fff;
+    background-color: transparent !important;
+}
+
+
+.jumbotron .h1, .jumbotron h1 {
+    font-size: 50px;
+    text-transform:  uppercase;
+}
+
+.h1, .h2, .h3, h1, h2, h3 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+    font-family: 'Muli',"Helvetica Neue", sans-serif;
+    font-weight: 900;
+    line-height: 1.1;
+    letter-spacing: 3px;
+}
+
+.jumbotron p {
+    margin-bottom: 30px;
+    font-size: 17px;
+    font-weight: 200;
+    letter-spacing: 1.5px;
+    font-family: 'Muli',"Helvetica Neue", sans-serif;
+}
+p {
+    margin: 0 0 10px;
+}
+
+/* Jumbotron button*/
+
+.btn-group-lg>.btn, .btn-lg {
+    padding: 10px 16px;
+    font-size: 13px;
+    line-height: 1.3333333;
+    border-radius: 0px;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #525252;
+}
+
+.btn {
+    display: inline-block;
+    padding: 8px 50px;
+    margin-bottom: 0;
+    font-size: 12px;
+    font-weight: 100;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: px;
+}
+
+/* Jumbotron erasers*/
+.eraser {
+    display: flex;
+    justify-content: center;
+}
+
+.eraser img {
+    margin: 15px 30px 15px 30px;
+}
+/* Footer starts here */
+
+footer p {
+	text-align: center;
+
+}
