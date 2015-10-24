@@ -1,0 +1,38 @@
+/* Jumbotron */
+
+.jumbotron {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+    color: #fff;
+    background-color: transparent !important;
+}
+
+
+.jumbotron .h1, .jumbotron h1 {
+    font-size: 50px;
+    text-transform: uppercase;
+}
+
+.h1, .h2, .h3, h1, h2, h3 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+    font-family: 'Muli',"Helvetica Neue", sans-serif;
+    font-weight: 900;
+    line-height: 1.1;
+    letter-spacing: 3px;
+}
+
+
+p {
+    margin: 0 0 10px;
+}
+
+.jumbotron .about h1{
+    font-family: 'Muli',"Helvetica Neue", sans-serif;
+    font-weight: 900;
+    line-height: 1.1;
+    letter-spacing: 3px;
+    color: #fff;
