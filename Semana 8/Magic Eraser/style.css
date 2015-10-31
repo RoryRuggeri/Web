@@ -267,9 +267,17 @@ p {
     text-align: center;
 }
 
-.designer {
+.footer {
 	text-align: center;
     font-size: 5px;
     color: #4c4c4c;
     letter-spacing: 1px;
 }
+
+.footer p {
+    text-align: center;
+    font-size: 5px;
+    color: #4c4c4c;
+    letter-spacing: 1px;
+}
+
