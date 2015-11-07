@@ -1,0 +1,44 @@
+
+
+@media screen and (min-width: 768px)
+.jumbotron {
+    padding-top: 48px;
+    padding-bottom: 48px;
+    text-align: center; 
+}
+
+.jumbotron {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+    color: inherit;
+    background-color: transparent !important;
+     display: block;
+}
+
+.jumbotron h3 {
+
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: -22px;
+}
+
+.jumbotron h4 {
+
+  font-size: 15px;
+}
+
+.jumbotron h5 {
+  color: #636363;
+  margin-top: 70px;
+  font-size: 15px;
+}
+
+
+.righty {
+  text-align: right;
+}
+
+.debrispiece {
+    height: 50px;
+}
