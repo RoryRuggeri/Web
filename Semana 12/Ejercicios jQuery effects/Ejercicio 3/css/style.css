@@ -1,0 +1,37 @@
+body {
+	background-color: #ff6666;
+	text-align: center;
+	font-family: Helvetica, arial, sans-serif;
+	font-size: 15px ;
+}
+
+
+p {
+	    width: 400px;
+	    height: 90px;
+	    text-align: center;
+	  }
+
+div {
+	    position: absolute;
+	    font-size: 36px;
+	    text-align: center;
+	    background-color: black;
+	    padding-top: 25px;
+	    top: 0;
+	    left: 0;
+	    display: none;
+	    height: 100%;
+	    width: 100%;
+
+	  }
+
+span {
+	    display: none;
+	  }
+
+div img {
+	position: relative;
+  	top: 50%;
+  	transform: translateY(-50%);
+}
